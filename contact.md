@@ -4,6 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
+Pete can be contacted at [peteastor@gmail.com](mailto:peteastor@gmail.com), or using the form below.
 
 <div class="form">
 	<form action="//formspree.io/peteastor@gmail.com"
