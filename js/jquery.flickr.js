@@ -14,7 +14,7 @@
     var default_options = {
         user_id: null,
         api_key: null,
-        size: 'normal',
+        size: 'large',
         speed: 100,
         count: false
     };
@@ -39,7 +39,7 @@
         var element = $('<ul></ul>', {id: 'flickr'});
         root.append(element);
 
-        var size = '_m';
+       var size = '';
         switch (options.size) {
             case 'small':
                 size = '_s';
@@ -47,11 +47,11 @@
             case 'large':
                 size = '';
                 break;
-        }
+        } 
 
         $.each(photosets.photoset, function(key, photoset) {
             if (!options.count || key < options.count) {
-                var thumbnail = 'http://farm' + photoset.farm + '.static.flickr.com/' + photoset.server + '/' + photoset.primary + '_' + photoset.secret + size + '.jpg';
+                var thumbnail = 'http://farm' + photoset.farm + '.static.flickr.com/' + photoset.server + '/' + photoset.primary + '_' + photoset.secret + '.jpg';
                 var title = photoset.title._content;
                 element.append($('<li></li>')
                     .append($('<a></a>', {id: photoset.id, title: title})

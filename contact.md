@@ -4,8 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<div class="form">
+	<form action="//formspree.io/peteastor@gmail.com"
+      method="POST">
+    <label>Name</label><input type="text" name="name">
+    <label>Email</label><input type="email" name="_replyto">
+    <input type="text" name="_gotcha" style="display:none" />
+    <label>Message</label><textarea name="body"></textarea>
+    <input type="submit" value="Send">
+</form>
+</div>
