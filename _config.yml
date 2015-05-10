@@ -3,7 +3,7 @@ title: Pete Astor
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Pete Astor, formerly of The Loft and The Weather Prophets, writes, sings songs and teaches music. 
-baseurl: "/pete-astor" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "emmawinston.github.io/pete-astor" # the base hostname & protocol for your site
 twitter_username: peteastor
 # Build settings
