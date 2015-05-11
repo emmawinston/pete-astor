@@ -284,6 +284,12 @@
     margin: 0 auto;
 }
 
+@media screen and (max-width: 400px){
+    .logo {
+        max-width: 200px;
+    }
+}
+
 .site-list {
     list-style: none;
     margin: 0;
