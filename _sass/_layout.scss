@@ -282,10 +282,8 @@
 .logo {
     max-width: 300px;
     margin: 0 auto;
-}
 
-@media screen and (max-width: 400px){
-    .logo {
+    @include media-query($on-palm) {
         max-width: 200px;
     }
 }
