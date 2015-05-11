@@ -286,6 +286,7 @@
     @include media-query($on-palm) {
         max-width: 200px;
         float: left;
+        padding-top: 10px;
     }
 }
 
