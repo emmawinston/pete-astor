@@ -20,3 +20,4 @@ I’ve made records as part of [The Loft](https://en.wikipedia.org/wiki/The_Loft
 
 I’ve got a new record out now on Fortuna Pop. It’s called [Spilt Milk]. [Here](https://www.evernote.com/shard/s246/sh/9fb7640a-0fe8-43a8-81b7-4b2ca81b9f52/a5da6b2438d606ce0039900f78448c0d) is some of what has been written about it. 
 Press enquiries to Lucy at [But I Like You PR](http://www.butilikeyou.co.uk/)
+I also have a new, limited, 7" single called Do Nothing,available at all good record shops.
