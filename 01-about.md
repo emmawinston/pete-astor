@@ -20,4 +20,4 @@ I’ve made records as part of [The Loft](https://en.wikipedia.org/wiki/The_Loft
 
 I released Spilt Milk on Fortuna Pop in 2016. I have now signed to Tapete Records, home of The Clientele, Lloyd Cole and The Monochrome Set. I have been recording a new album with with James Hoare (Ultimate Painting, Proper Ornaments, Veronica Falls) on guitar and The Wave Pictures’ rhythm section of Franic Rozycki on bass and Jonny Helm on drums.  
 
-Water Tower, a new seven inch is out in Novemeber. 
+Water Tower, a new seven inch, is out in Novemeber. 
